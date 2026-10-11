@@ -7,7 +7,7 @@ Welcome to my repository containing Power BI and data visualization projects dev
 | Experiment | Focus Areas & Technologies | Links |
 | :--- | :--- | :--- |
 | **Experiment 3** | Power Query transformations, text cleaning, conditional columns, and built-in aggregations. | [View Folder](./Experiment3) |
-| **Experiment 6** | Star schema modeling, 20+ custom DAX measures, time-series analysis, DAX Studio, and interactive dashboards[cite: 4, 5, 9]. | [View Folder](./https://github.com/mst-2005/DataVisualization/tree/main/Experiment%206) |
+| **Experiment 6** | Star schema modeling, 20+ custom DAX measures, time-series analysis, DAX Studio, and interactive dashboards[cite: 4, 5, 9]. | [View Folder](./Experiment%206) |
 
 ---
 *Developed by Mahita Suresh Thundiyil*
