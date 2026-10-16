@@ -1,6 +1,6 @@
 # Data Visualization & Business Intelligence Portfolio 📊
 
-Welcome to my repository containing Power BI and data visualization projects developed as part of my B.Tech. AIML at Symbiosis Institute of Technology, Pune.
+Welcome to my repository containing Power BI and data visualization assignments developed as part of my B.Tech. AIML at Symbiosis Institute of Technology, Pune.
 
 ## 📁 Experiments Directory
 https://github.com/mst-2005/DataVisualization/tree/main/Experiment7
